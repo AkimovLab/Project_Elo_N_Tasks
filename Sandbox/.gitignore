@@ -1,0 +1,7 @@
+*.png
+__pycache__
+NAMD-model*
+EXACT-model*
+old_stuff
+.ipynb_checkpoints/
+
